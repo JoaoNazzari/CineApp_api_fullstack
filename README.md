@@ -143,3 +143,6 @@ flutter run -d chrome
 - Backend: Dart + Shelf + PostgreSQL
 - Frontend: Flutter + pacote http
 - Documentação: Postman
+
+## Arquitetura
+![System Design](system_design.png)
